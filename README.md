@@ -1,13 +1,12 @@
-# React JS Resume Web App Template      
+# Deniz Jasarbasic - A data scientist in the making!
 
-## Description
-This is a ReactJS based personal website template that I have built this by following a Udemy course (credits below) and by beginning with the Ceevee template by Styleshout (credits also below), and breaking up their template into isolated React components. Data is fed directly from a JSON File. This means that in its final form, it can be customized and used by anybody simply by filling in their own personal info into the JSON file and the changes will be dynamically fed into the site. If you would like to use this template for your own personal resume website, read on to learn how to build your own copy.
+Created in ReactJS, this personal website will feature information about myself, my education, and my personal projects. It will also highlight ways to contact me directly about my projects, skills, and ideas. I am always looking to connect, chat, and meet new people everyday.
 
-## Credits
-##### Udemy Course
-<a href="https://www.udemy.com/projects-in-reactjs-the-complete-react-learning-course/learn/v4/overview">Projects in ReactJS: The Complete React Learning Course by Eduonix</a>
+Direct Link: <a href="Deniz-Jasa.github.io">Deniz Jasarbasic's Personal Website</a>
 
-#### HTML Design Template
-<a href="https://www.styleshout.com/free-templates/ceevee/">Ceevee Template by Styleshout</a>
+## Credits:
+Udemy Course: <a href="https://www.udemy.com/projects-in-reactjs-the-complete-react-learning-course/learn/v4/overview">Projects in ReactJS: The Complete React Learning Course by Eduonix</a>
 
-Deniz-Jasa.github.io
+HTML Design Template: <a href="https://www.styleshout.com/free-templates/ceevee/">Ceevee Template by Styleshout</a>
+
+Home Page Template: <a href="https://github.com/tbakerx/react-resume-template">React JS Resume Web App Template</a>

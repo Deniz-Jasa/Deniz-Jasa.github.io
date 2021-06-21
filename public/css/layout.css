@@ -101,7 +101,7 @@ header .social li {
    padding: 0;
 }
 header .social li a { color: #fff; }
-header .social li a:hover { color: #11ABB0; }
+header .social li a:hover { color: #02612d; }
 
 /* scrolldown link */
 header .scrolldown a {
@@ -123,7 +123,7 @@ header .scrolldown a {
    -o-transition: all .3s ease-in-out;
    transition: all .3s ease-in-out;
 }
-header .scrolldown a:hover { color: #11ABB0; }
+header .scrolldown a:hover { color: #02612d; }
 
 /* primary navigation
 --------------------------------------------------------------------- */
@@ -200,7 +200,7 @@ ul#nav li.current a { color: #1e8e08; }
 }
 
 #about a, #about a:visited  { color: #fff; }
-#about a:hover, #about a:focus { color: #11ABB0; }
+#about a:hover, #about a:focus { color: #02612d; }
 
 #about h2 {
    font: 22px/30px 'opensans-bold', sans-serif;
@@ -247,7 +247,7 @@ ul#nav li.current a { color: #1e8e08; }
    overflow: hidden;
 }
 
-#resume a, #resume a:visited  { color: #11ABB0; }
+#resume a, #resume a:visited  { color: #02612d; }
 #resume a:hover, #resume a:focus { color: #313131; }
 
 #resume h1 {
@@ -256,7 +256,7 @@ ul#nav li.current a { color: #1e8e08; }
    letter-spacing: 1px;
 }
 #resume h1 span {
-   border-bottom: 3px solid #11ABB0;
+   border-bottom: 3px solid #02612d;
    padding-bottom: 6px;
 }
 #resume h3 {
@@ -266,7 +266,7 @@ ul#nav li.current a { color: #1e8e08; }
 #resume .header-col { padding-top: 9px; }
 #resume .main-col { padding-right: 10%; }
 
-.education, .work {
+.education, .projects {
    margin-bottom: 48px;
    padding-bottom: 24px;
    border-bottom: 1px solid #E8E8E8;
@@ -289,6 +289,7 @@ ul#nav li.current a { color: #1e8e08; }
 /*----------------------------------------------*/
 /*	Skill Bars
 /*----------------------------------------------*/
+
 
 .bars {
 	width: 95%;
@@ -806,7 +807,7 @@ call-to-action .button {
 }
 #contact .section-head { margin-bottom: 42px; }
 
-#contact a, #contact a:visited  { color: #11ABB0; }
+#contact a, #contact a:visited  { color: #039444; }
 #contact a:hover, #contact a:focus { color: #fff; }
 
 #contact h1 {
@@ -866,8 +867,8 @@ call-to-action .button {
 #contact input:focus,
 #contact textarea:focus,
 #contact select:focus {
-	color: #fff;
-	background-color: #11ABB0;
+	color: rgb(0, 0, 0);
+	background-color: #ffffff;
 }
 #contact button.submit {
 	text-transform: uppercase;
@@ -886,7 +887,7 @@ call-to-action .button {
 	background: #fff;
 }
 #contact span.required {
-	color: #11ABB0;
+	color: #02612d;
 	font-size: 13px;
 }
 #message-warning, #message-success {
@@ -898,7 +899,7 @@ call-to-action .button {
    margin-left: 26%;
 }
 #message-warning { color: #D72828; }
-#message-success { color: #11ABB0; }
+#message-success { color: #02612d; }
 
 #message-warning i,
 #message-success i {
@@ -912,19 +913,19 @@ call-to-action .button {
 }
 
 
-/* Twitter Feed */
-#twitter {
+/* Github Feed */
+#Github {
    margin-top: 12px;
    padding: 0;
 }
-#twitter li {
+#Github li {
    margin: 6px 0px 12px 0;
    line-height: 30px;
 }
-#twitter li span {
+#Github li span {
    display: block;
 }
-#twitter li b a {
+#Github li b a {
    font: 13px/36px 'opensans-regular', Sans-serif;
    color: #474747 !important;
    border: none;
@@ -965,7 +966,7 @@ footer .copyright li:before {
     content: "\2022";
     padding-left: 10px;
     padding-right: 10px;
-    color: #095153;
+    color: #02612d;
 }
 footer .copyright  li:first-child:before {
     display: none;
@@ -1013,4 +1014,4 @@ footer .social-links li:first-child { margin-left: 0; }
    line-height: 60px;
  	border-radius: 100%;
 }
-#go-top a:hover { background-color: #0F9095; }
+#go-top a:hover { background-color: #02612d; }

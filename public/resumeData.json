@@ -1,11 +1,11 @@
 {
   "main": {
     "name":"Deniz Jasarbasic",
-    "occupation":"high school student, data scientist, and computer enthusiast",
-    "description":"I love programming, contributing to the Computer and Data Science community, and enjoy building impactful side projects. Feel free to connect with me and check out my projects below. I am always looking to connect, chat, and meet new people everyday!",
+    "occupation":"high school student, future data scientist, and computer enthusiast",
+    "description":"In September of 2021, I will be beginning my next learning adventure at the University of Ottawa. I will be studying Computer Science and will be specializing in Data Science. I can't wait to begin",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Intrested in my projects, skills, or ideas? Feel free to contact me.",
+    "bio":"Hi my name is Deniz Jasarbasic. I love programming, contributing to the CS community, and enjoy building impactful side projects. Feel free to connect with me and check out my projects below. I am always looking to connect, chat, and meet new people everyday!",
+    "contactmessage":"Intrested in my projects, skills, or ideas? Feel free to contact me. I am always looking to connect, chat, and meet new people everyday!",
     "email": "denizj2828@gmail.com",
     "phone": "(873) 354-9180",
     "address":{
@@ -19,11 +19,6 @@
         "name":"facebook",
         "url":"https://www.facebook.com/deniz.jasarbasic.1/",
         "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
       },
       {
         "name":"google-plus",
@@ -48,13 +43,13 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"",
     "education":[
       {
         "school":"University of Ottawa",
         "degree":"Honours BSc in Computer Science with a specialization in Data Science",
         "graduated":"2021 - 2025",
-        "description":"• Youngest volunteer at Ottawa's largest hackathon, uOttaHack during High School."
+        "description":"• Youngest volunteer at Ottawa's largest hackathon, uOttaHack throughout High School."
       },
       {
         "school":"Lisgar Collegiate Institute",
@@ -63,94 +58,102 @@
         "description":"• Currently in my 4th year (grade 12).\n• Honors in the French Immersion Program."
       }
     ],
-    "work":[
+    "projects":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Education in Equality Research Project",
+        "title":"Project Manager and Lead Data Scientist",
+        "years":"October 2020 - January 2021",
+        "description":"My team and I conducted and published a four-month group research project and study. We used many large data sets (Big Data) to show the correlations of how education funding systems can affect the success of students. Using this data we presented some novel solutions about funding that can benefit the success of students using the integrative thinking method and applying ideas from the UNESCO Sustainable Development Goal 4 in order to achieve “Equity in Education”. Recently, our project abstraction was published in the 2020-2021 STEM Fellowship Scientific Journal. Check out my GitHub for more information about this project."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Graphical Data Sorting and Search Tool",
+        "title":"Creator",
+        "years":"September 2020",
+        "description":"In High School, I created this tool that graphically sorts and searches a list of random integers of any size using three sorting algorithms and a search algorithm that uses iteration and recursion. Check out my GitHub for more information about this project"
+      },
+      {
+        "company":"To-Do-List",
+        "title":"Creator",
+        "years":"June 2020",
+        "description":"This project is a react web app for students to use as a simple ToDo/Homework checklist. I created this project from scratch over the summer in High School for fun to begin learning React and JS. Check out my GitHub for more information about this project."
       }
     ],
     "skills":[
       {
-        "name":"Git",
-        "level":"60%"
+        "name":"C++",
+        "level":"95%"
       },
       {
-        "name":"Illustrator",
-        "level":"55%"
-      },
-      {
-        "name":"ReactJs",
-        "level":"50%"
-      },
-      {
-        "name":"CSS",
+        "name":"Python",
         "level":"90%"
       },
       {
-        "name":"HTML5",
-        "level":"80%"
+        "name":"JavaScript",
+        "level":"70%"
       },
       {
-        "name":"VueJs",
+        "name":"React",
+        "level":"60%"
+      },
+      {
+        "name":"HTML5 & CSS",
+        "level":"75%"
+      },
+      {
+        "name":"Java",
         "level":"50%"
       },
       {
-        "name":"MongoDB",
-        "level":"80%"
+        "name":"SQL",
+        "level":"60%"
+      },
+      {
+        "name":"Heroku",
+        "level":"50%"
+      },
+      {
+        "name":"Git",
+        "level":"95%"
       }
     ]
   },
   "portfolio":{
-    "projects": [
+    "workExperience": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"",
+        "category":"",
+        "image":"",
+        "url":""
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"",
+        "category":"",
+        "image":"",
+        "url":""
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"",
+        "category":"",
+        "image":"",
+        "url":""
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"",
+        "category":"",
+        "image":"",
+        "url":""
       }
     ]
   },
   "testimonials":{
     "testimonials":[
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
+        "text":"",
+        "user":""
       },
       {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text":"",
+        "user":""
       }
     ]
   }

@@ -87,9 +87,9 @@ class Contact extends Component {
 					   </p>
 				   </div>
 
-               <div className="widget widget_tweets">
+               <div className="widget widget_project">
                   <h4 className="widget-title">Latest Gitub Project</h4>
-                  <ul id="twitter">
+                  <ul id="Github">
                      <li>
                         <span>
                         My team and I conducted and published a four-month group research project and study. 
@@ -97,7 +97,7 @@ class Contact extends Component {
                         systems can affect the success of students. From there we presented our findings and proposed 
                         new solutions to combat this issue of inequality. At the end of the study, we had our abstraction 
                         published in the 2020-2021 STEM Fellowship Scientific Journal.
-                        <a href="#"> https://github.com/Deniz-Jasa/Big-Data-Challenge-2020-2021</a>
+                        <a href="https://github.com/Deniz-Jasa/Big-Data-Challenge-2020-2021"> https://github.com/Deniz-Jasa/Big-Data-Challenge-2020-2021</a>
                         </span>
                         <b><a href="#">20 Days Ago</a></b>
                      </li>
